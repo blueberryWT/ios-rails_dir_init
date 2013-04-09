@@ -1,4 +1,3 @@
-
 # rails-like ios project dir practice
 
 //  rails-like ios project dir practice
@@ -11,15 +10,19 @@
 ## 目录
 
 共7个目录
+       src目录
 
-	app    config   db     doc    log    script   test   vendor   server
+	app    config   db     doc    log    script   test      server  
+	
+	vendor目录
 	
 
 ### app    
 这个应用开发的源码目录和图片资源目录
 
 	./app:
-	assets      controllers helpers     models      views
+	assets      controllers helpers     models      views  apis
+	
 
 
 - assets  
